@@ -7,7 +7,7 @@ Resource    ../resources/pages/trains_page.robot
 Resource    ../resources/components/search_trains.robot
 
 
-#test template
+
 Test Template    search trains
 *** Test Cases ***
 sample test case 01    Secunderabad Junction (SC)    Tirupati (TPTY)    2    20    2
